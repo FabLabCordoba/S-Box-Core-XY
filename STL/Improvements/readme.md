@@ -55,4 +55,13 @@ https://www.thingiverse.com/thing:166045/
 
 under the Creative Commons - Attribution - Share Alike license.
 
+---
+
+"Airtripper's Bowden Extruder V3 without fixing brackets" by "karimkfoure" 
+
+https://www.thingiverse.com/thing:2529459
+
+under the Creative Commons - Attribution license.
+
+
 
