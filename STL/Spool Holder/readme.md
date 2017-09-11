@@ -10,6 +10,7 @@ https://www.thingiverse.com/thing:1060029/
 
 under the Creative Commons - Attribution license (https://creativecommons.org/licenses/by/3.0
 
+---
 
 "SpoolHolder_Hand-Wheel.stl":
 
