@@ -20,9 +20,9 @@
 
 - 1x Extras/"ZAxis_Nut-Mount_M8" or "ZAxis_Nut-Mount_M5"
 
-- ¿?x Extras/"Bearing_Spacer"
+- ?x Extras/"Bearing_Spacer"
 
-- ¿?x Extras/"Bearing_Spacer_Short"
+- ?x Extras/"Bearing_Spacer_Short"
 
 ---
 
@@ -38,9 +38,9 @@
 
 - 12x M3x8mm screws (X-Y-Z motors)
 
-- 4x M3x¿?mm screws (Arduino)
+- 4x M3x?mm screws (Arduino)
 
-- 4x M4x¿?mm screws (power supply)
+- 4x M4x?mm screws (power supply)
 
 ---
 
@@ -48,9 +48,9 @@
 
 - 12x 624zz bearings
 
-- ¿?x M4x¿?mm screws (Bearing_Spacer mount)
+- ?x M4x?mm screws (Bearing_Spacer mount)
 
-- ¿?x M4x¿?mm screws (Bearing_Spacer_Short mount)
+- ?x M4x?mm screws (Bearing_Spacer_Short mount)
 
 ---
 
@@ -94,16 +94,16 @@
 
 |       Size      | Length      | Quantity |
 | :-------------: | :---------: | -------- |
-| M3 | Nut | ¿? |
-| M3 | Washer | ¿? |
-| M3 | 8mm | ¿? |
-| M3 | 12mm | ¿? |
-| M3 | 15mm | ¿? |
-| M3 | 22mm | ¿? |
-| M4 | Nut | ¿? |
-| M4 | Washer | ¿? |
-| M4 | 5mm | ¿? |
-| M8 | Nut | ¿? |
-| M8 | Nylock Nut | ¿? |
-| M8 | Washer | ¿? |
-| M8 | 25mm | ¿? |
+| M3 | Nut | ? |
+| M3 | Washer | ? |
+| M3 | 8mm | ? |
+| M3 | 12mm | ? |
+| M3 | 15mm | ? |
+| M3 | 22mm | ? |
+| M4 | Nut | ? |
+| M4 | Washer | ? |
+| M4 | 5mm | ? |
+| M8 | Nut | ? |
+| M8 | Nylock Nut | ? |
+| M8 | Washer | ? |
+| M8 | 25mm | ? |
