@@ -28,19 +28,19 @@
 
 **Frame**:
 
-- 4x 380mm smooth rods
+- 4x 380 mm smooth rods
 
-- 2x 310mm smooth rods
+- 2x 310 mm smooth rods
 
-- 8x circlip/seeger ring for 8mm rods
+- 8x circlip/seeger ring for 8 mm rods
 
-- 28x M3x12mm screws (frame assembly)
+- 28x M3x12 mm screws (frame assembly)
 
-- 12x M3x8mm screws (X-Y-Z motors)
+- 12x M3x8 mm screws (X-Y-Z motors)
 
-- 4x M3x?mm screws (Arduino)
+- 4x M3x? mm screws (Arduino)
 
-- 4x M4x?mm screws (power supply)
+- 4x M4x? mm screws (power supply)
 
 ---
 
@@ -48,19 +48,19 @@
 
 - 12x 624zz bearings
 
-- ?x M4x?mm screws (Bearing_Spacer mount)
+- ?x M4x? mm screws (Bearing_Spacer mount)
 
-- ?x M4x?mm screws (Bearing_Spacer_Short mount)
+- ?x M4x? mm screws (Bearing_Spacer_Short mount)
 
 ---
 
 **Bed**:
 
-- 2x M3x12mm (bed assembly)
+- 2x M3x12 mm (bed assembly)
 
-- 4x M3x10mm (bed assembly)
+- 4x M3x10 mm (bed assembly)
 
-- 2x M3x15mm (nut mount to bed)
+- 2x M3x15 mm (nut mount to bed)
 
 ---
 
@@ -70,11 +70,11 @@
 
 - 2x 608 bearing
 
-- 4x M3x12mm (body-frame-motor)
+- 4x M3x12 mm (body-frame-motor)
 
-- 2x M4x5mm (idler bearing mount)
+- 2x M4x5 mm (idler bearing mount)
 
-- 1x M4x70mm (idler-body)
+- 1x M4x70 mm (idler-body)
 
 - 1x M4 nut (idler-body)
 
@@ -82,7 +82,7 @@
 
 - 1x M5 bowden tube fitting
 
-- 1x M8x25mm (idler to frame)
+- 1x M8x25 mm (idler to frame)
 
 - 2x M8 nylock nut (idler to frame)
 
@@ -96,14 +96,14 @@
 | :-------------: | :---------: | -------- |
 | M3 | Nut | ? |
 | M3 | Washer | ? |
-| M3 | 8mm | ? |
-| M3 | 12mm | ? |
-| M3 | 15mm | ? |
-| M3 | 22mm | ? |
+| M3 | 8 mm | ? |
+| M3 | 12 mm | ? |
+| M3 | 15 mm | ? |
+| M3 | 22 mm | ? |
 | M4 | Nut | ? |
 | M4 | Washer | ? |
-| M4 | 5mm | ? |
+| M4 | 5 mm | ? |
 | M8 | Nut | ? |
 | M8 | Nylock Nut | ? |
 | M8 | Washer | ? |
-| M8 | 25mm | ? |
+| M8 | 25 mm | ? |
