@@ -1,7 +1,5 @@
 # Original S-BOX BOM
 
----
-
 **Printed Parts**:
 
 - 1x "Extruder_Body"
@@ -29,6 +27,7 @@
 - 8x circlip/seeger ring for 8mm rods
 
 - Bed:
+
 ..* M3
 
 |                Screws        |
