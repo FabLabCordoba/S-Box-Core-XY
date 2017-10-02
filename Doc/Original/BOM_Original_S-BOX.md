@@ -20,9 +20,9 @@
 
 - 1x Extras/"ZAxis_Nut-Mount_M8" or "ZAxis_Nut-Mount_M5"
 
-- ?x Extras/"Bearing_Spacer"
+- 6x Extras/"Bearing_Spacer"
 
-- ?x Extras/"Bearing_Spacer_Short"
+- 6x Extras/"Bearing_Spacer_Short"
 
 ---
 
@@ -38,6 +38,8 @@
 
 - 12x M3x8 mm screws (X-Y-Z motors)
 
+- 8x M3x? mm screws (Door Hinges)
+
 - 4x M3x? mm screws (Arduino)
 
 - 4x M4x? mm screws (power supply)
@@ -48,9 +50,11 @@
 
 - 12x 624zz bearings
 
-- ?x M4x? mm screws (Bearing_Spacer mount)
+- 6x M4x? mm screws (Bearing_Spacer mount)
 
-- ?x M4x? mm screws (Bearing_Spacer_Short mount)
+- 6x M4x? mm screws (Bearing_Spacer_Short mount)
+
+- 2x M3x12 mm screws (Endstop_Y)
 
 ---
 
@@ -61,6 +65,8 @@
 - 4x M3x10 mm (bed assembly)
 
 - 2x M3x15 mm (nut mount to bed)
+
+- 2x M3x15 mm (Z endstop)
 
 ---
 
