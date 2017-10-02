@@ -14,9 +14,19 @@
 
 - 2x "Door_Hinge_B"
 
+- 1x Extras/"Endstop_X"
+
+- 1x Extras/"Endstop_Y"
+
+- 1x Extras/"ZAxis_Nut-Mount_M8" or "ZAxis_Nut-Mount_M5"
+
+- ¿?x Extras/"Bearing_Spacer"
+
+- ¿?x Extras/"Bearing_Spacer_Short"
+
 ---
 
-**Vitamins**:
+**Frame**:
 
 - 12x 624zz bearings
 
@@ -26,9 +36,19 @@
 
 - 8x circlip/seeger ring for 8mm rods
 
-- Bed:
+- 28x M3x12mm screws (frame assembly)
 
-... M3
+- 12x M3x8mm screws (X-Y-Z motors)
 
-|                Screws        |
-| Quantity | Size | Type | Cool  |
+- 4x M3x¿?mm screws (Arduino)
+
+- 4x M4x¿?mm screws (power supply)
+
+
+
+|                Screws Buy List           |
+| :-------------: | :---------: | -------- |
+|       Size      | Length      | Quantity |
+| M3 | Nut | 30 |
+| M3 | Washer | 30 |
+| M3 | 20mm | 10 |
