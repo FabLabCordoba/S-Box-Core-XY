@@ -1,4 +1,4 @@
-Original S-BOX BOM
+# Original S-BOX BOM
 
 ---
 
@@ -27,3 +27,9 @@ Original S-BOX BOM
 - 2x 310mm smooth rods
 
 - 8x circlip/seeger ring for 8mm rods
+
+- Bed:
+..* M3
+
+|                Screws        |
+| Quantity | Size | Type | Cool  |
