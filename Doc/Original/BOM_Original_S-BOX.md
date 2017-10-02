@@ -28,7 +28,7 @@
 
 - Bed:
 
-..* M3
+... - M3
 
 |                Screws        |
 | Quantity | Size | Type | Cool  |
