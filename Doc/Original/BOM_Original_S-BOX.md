@@ -46,7 +46,7 @@
 
 
 
-|                Screws Buy List           |
+Screws Buy List           
 | :-------------: | :---------: | -------- |
 |       Size      | Length      | Quantity |
 | M3 | Nut | 30 |
