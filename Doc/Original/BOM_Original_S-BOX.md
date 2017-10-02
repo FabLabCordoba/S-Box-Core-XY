@@ -28,8 +28,6 @@
 
 **Frame**:
 
-- 12x 624zz bearings
-
 - 4x 380mm smooth rods
 
 - 2x 310mm smooth rods
@@ -44,12 +42,64 @@
 
 - 4x M4x¿?mm screws (power supply)
 
+---
 
+**Bed**:
 
-Screws Buy List           
+- 12x 624zz bearings
+
+---
+
+**Bed**:
+
+- 2x M3x12mm (bed assembly)
+
+- 4x M3x10mm (bed assembly)
+
+- 2x M3x15mm (nut mount to bed)
+
+---
+
+**Extruder**:
+
+- 1x spring
+
+- 2x 608 bearing
+
+- 4x M3x12mm (body-frame-motor)
+
+- 2x M4x5mm (idler bearing mount)
+
+- 1x M4x70mm (idler-body)
+
+- 1x M4 nut (idler-body)
+
+- 2x M4 washer (idler-body)
+
+- 1x M5 bowden tube fitting
+
+- 1x M8x25mm (idler to frame)
+
+- 2x M8 nylock nut (idler to frame)
+
+- 1x M8 nut (idler)
+
+---
+
+**Screw Buy List**:         
 
 |       Size      | Length      | Quantity |
 | :-------------: | :---------: | -------- |
-| M3 | Nut | 30 |
-| M3 | Washer | 30 |
-| M3 | 20mm | 10 |
+| M3 | Nut | ¿? |
+| M3 | Washer | ¿? |
+| M3 | 8mm | ¿? |
+| M3 | 12mm | ¿? |
+| M3 | 15mm | ¿? |
+| M3 | 22mm | ¿? |
+| M4 | Nut | ¿? |
+| M4 | Washer | ¿? |
+| M4 | 5mm | ¿? |
+| M8 | Nut | ¿? |
+| M8 | Nylock Nut | ¿? |
+| M8 | Washer | ¿? |
+| M8 | 25mm | ¿? |
