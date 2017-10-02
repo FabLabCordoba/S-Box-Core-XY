@@ -44,9 +44,13 @@
 
 ---
 
-**Bed**:
+**CoreXY system**:
 
 - 12x 624zz bearings
+
+- ¿?x M4x¿?mm screws (Bearing_Spacer mount)
+
+- ¿?x M4x¿?mm screws (Bearing_Spacer_Short mount)
 
 ---
 
