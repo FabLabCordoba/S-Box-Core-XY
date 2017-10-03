@@ -14,15 +14,15 @@
 
 - 2x "Door_Hinge_B"
 
+- 6x "Bearing_Spacer"
+
+- 6x "Bearing_Spacer_Short"
+
 - 1x Extras/"Endstop_X"
 
 - 1x Extras/"Endstop_Y"
 
 - 1x Extras/"ZAxis_Nut-Mount_M8" or "ZAxis_Nut-Mount_M5"
-
-- 6x Extras/"Bearing_Spacer"
-
-- 6x Extras/"Bearing_Spacer_Short"
 
 ---
 
